@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCD0E0F5-5966-4950-A613-658F79B1E3B9}|..\\ItemService\\ItemService.csproj|d:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\itemservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|d:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\restauranteservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|d:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\restauranteservice\\itemservicehttpclient\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|solutionrelative:itemservicehttpclient\\itemservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|d:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\restauranteservice\\controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|solutionrelative:controllers\\restaurantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|d:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\restauranteservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|d:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\restauranteservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4337C3E9-E0A6-46CD-8EC2-0AD22FC3FCB2}|RestauranteService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\ItemService\\Dockerfile",
+              "RelativeDocumentMoniker": "..\\ItemService\\Dockerfile",
+              "ToolTip": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\ItemService\\Dockerfile",
+              "RelativeToolTip": "..\\ItemService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T23:16:59.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T22:20:44.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T22:09:56.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:50:26.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemServiceHttpClient.cs",
+              "DocumentMoniker": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\ItemServiceHttpClient\\ItemServiceHttpClient.cs",
+              "RelativeDocumentMoniker": "ItemServiceHttpClient\\ItemServiceHttpClient.cs",
+              "ToolTip": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\ItemServiceHttpClient\\ItemServiceHttpClient.cs",
+              "RelativeToolTip": "ItemServiceHttpClient\\ItemServiceHttpClient.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA3wBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:42:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestauranteController.cs",
+              "DocumentMoniker": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestauranteController.cs",
+              "ToolTip": "D:\\workspace-dotnet\\dotnet-bmg\\microsservices-dotnet\\RestauranteService\\Controllers\\RestauranteController.cs",
+              "RelativeToolTip": "Controllers\\RestauranteController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:27:53.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
